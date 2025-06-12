@@ -1,6 +1,4 @@
 "use client"
-import Link from 'next/link';
-import ThemeToggle from './ThemeToggle';
 import Navbar from './Navbar';
 
 export default function Layout({ children }: { children: React.ReactNode }) {

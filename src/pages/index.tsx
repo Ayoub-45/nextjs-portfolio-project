@@ -41,7 +41,7 @@ export default function Home() {
           animate={{ opacity: 1 }}
           transition={{ delay: 0.6, duration: 0.6 }}
           >
-          I’m a software engineer passionate about full-stack development, DevOps culture, and building modern web apps with great UX.
+          I'm a software engineer passionate about full-stack development, DevOps culture, and building modern web apps with great UX.
         </motion.p>
 
         <motion.div
