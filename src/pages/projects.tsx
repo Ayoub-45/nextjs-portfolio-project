@@ -13,7 +13,7 @@ const projects=[{
   title: 'Weather App',
   desc: 'React + API-based weather checker with geolocation.',
 },
-]]
+]
 export default function Projects() {
   return (
     <Layout>
