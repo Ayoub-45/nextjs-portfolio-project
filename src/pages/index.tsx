@@ -43,7 +43,6 @@ export default function Home() {
           >
           {"I'm a software engineer passionate about full-stack development, DevOps culture, and building modern web apps with great UX."}
         </motion.p>
-
         <motion.div
           className="grid grid-cols-1 md:grid-cols-3 gap-6 mt-8 w-full max-w-5xl"
           initial={{ opacity: 0 }}

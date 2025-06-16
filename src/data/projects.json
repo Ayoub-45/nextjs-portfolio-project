@@ -1,0 +1,17 @@
+[
+    {
+      "id": "1",
+      "slug": "nextjs-portfolio",
+      "title": "Next.js Portfolio",
+      "desc": "A developer portfolio site built with Next.js and Tailwind CSS.",
+      "content": "This project demonstrates how to build a modern, animated portfolio site using Next.js, Framer Motion, and Tailwind CSS. It includes dark mode, responsive design, and good SEO practices."
+    },
+    {
+      "id": "2",
+      "slug": "devops-dashboard",
+      "title": "DevOps Dashboard",
+      "desc": "Monitoring dashboard for CI/CD pipelines and system metrics.",
+      "content": "The dashboard aggregates data from multiple DevOps tools like Jenkins, GitHub Actions, and Prometheus to give real-time CI/CD and infrastructure health insights."
+    }
+  ]
+  
